@@ -1,1 +1,3 @@
+This is a text from window 1 - it will reside on the remote repo.
 This is local text in window 2.
+Now the entire file will be pushed to remote.
